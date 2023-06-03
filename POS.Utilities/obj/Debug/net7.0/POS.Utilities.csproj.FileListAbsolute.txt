@@ -1,0 +1,12 @@
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Utilities\bin\Debug\net7.0\POS.Utilities.deps.json
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Utilities\bin\Debug\net7.0\POS.Utilities.dll
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Utilities\bin\Debug\net7.0\POS.Utilities.pdb
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Utilities\obj\Debug\net7.0\POS.Utilities.csproj.AssemblyReference.cache
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Utilities\obj\Debug\net7.0\POS.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Utilities\obj\Debug\net7.0\POS.Utilities.AssemblyInfoInputs.cache
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Utilities\obj\Debug\net7.0\POS.Utilities.AssemblyInfo.cs
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Utilities\obj\Debug\net7.0\POS.Utilities.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Utilities\obj\Debug\net7.0\POS.Utilities.dll
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Utilities\obj\Debug\net7.0\refint\POS.Utilities.dll
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Utilities\obj\Debug\net7.0\POS.Utilities.pdb
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Utilities\obj\Debug\net7.0\ref\POS.Utilities.dll

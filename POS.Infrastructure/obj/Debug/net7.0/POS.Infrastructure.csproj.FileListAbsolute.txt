@@ -1,0 +1,17 @@
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Infrastructure.deps.json
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Infrastructure.dll
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Infrastructure.pdb
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Domain.dll
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Utilities.dll
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Domain.pdb
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Utilities.pdb
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.csproj.AssemblyReference.cache
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.AssemblyInfoInputs.cache
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.AssemblyInfo.cs
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.csproj.CopyComplete
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.dll
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\refint\POS.Infrastructure.dll
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.pdb
+C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\ref\POS.Infrastructure.dll
