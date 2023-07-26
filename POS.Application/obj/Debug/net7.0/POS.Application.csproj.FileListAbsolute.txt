@@ -17,3 +17,22 @@ C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Application\obj\Debug\ne
 C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Application\obj\Debug\net7.0\refint\POS.Application.dll
 C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Application\obj\Debug\net7.0\POS.Application.pdb
 C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Application\obj\Debug\net7.0\ref\POS.Application.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\bin\Debug\net7.0\POS.Application.deps.json
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\bin\Debug\net7.0\POS.Application.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\bin\Debug\net7.0\POS.Application.pdb
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\bin\Debug\net7.0\POS.Domain.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\bin\Debug\net7.0\POS.Infrastructure.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\bin\Debug\net7.0\POS.Utilities.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\bin\Debug\net7.0\POS.Domain.pdb
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\bin\Debug\net7.0\POS.Infrastructure.pdb
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\bin\Debug\net7.0\POS.Utilities.pdb
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\obj\Debug\net7.0\POS.Application.csproj.AssemblyReference.cache
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\obj\Debug\net7.0\POS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\obj\Debug\net7.0\POS.Application.AssemblyInfoInputs.cache
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\obj\Debug\net7.0\POS.Application.AssemblyInfo.cs
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\obj\Debug\net7.0\POS.Application.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\obj\Debug\net7.0\POS.Application.csproj.CopyComplete
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\obj\Debug\net7.0\POS.Application.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\obj\Debug\net7.0\refint\POS.Application.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\obj\Debug\net7.0\POS.Application.pdb
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Application\obj\Debug\net7.0\ref\POS.Application.dll

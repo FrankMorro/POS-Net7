@@ -15,3 +15,20 @@ C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\obj\Debug
 C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\refint\POS.Infrastructure.dll
 C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.pdb
 C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\ref\POS.Infrastructure.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Infrastructure.deps.json
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Infrastructure.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Infrastructure.pdb
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Domain.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Utilities.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Domain.pdb
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Utilities.pdb
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.AssemblyInfo.cs
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.csproj.CopyComplete
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\refint\POS.Infrastructure.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.pdb
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\ref\POS.Infrastructure.dll

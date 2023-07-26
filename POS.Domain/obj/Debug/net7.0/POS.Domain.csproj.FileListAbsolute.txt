@@ -12,3 +12,17 @@ C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Domain\obj\Debug\net7.0\
 C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.pdb
 C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.genruntimeconfig.cache
 C:\Aplicaciones\Cursos\Practicas C#\Sistema POS\POS\POS.Domain\obj\Debug\net7.0\ref\POS.Domain.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Domain\bin\Debug\net7.0\POS.Domain.deps.json
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Domain\bin\Debug\net7.0\POS.Domain.runtimeconfig.json
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Domain\bin\Debug\net7.0\POS.Domain.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Domain\bin\Debug\net7.0\POS.Domain.pdb
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.csproj.AssemblyReference.cache
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.AssemblyInfoInputs.cache
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.AssemblyInfo.cs
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Domain\obj\Debug\net7.0\refint\POS.Domain.dll
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.pdb
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.genruntimeconfig.cache
+C:\Users\Johnny\source\repos\Sistema POS\POS\POS.Domain\obj\Debug\net7.0\ref\POS.Domain.dll
